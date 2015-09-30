@@ -16,7 +16,7 @@ Installation is done with the script/plugin script:
 
 <pre>
   <code>
-  $ script/plugin install  git://github.com/christianhellsten/sitemap-generator.git
+  $ script/plugin install  git://github.com/AICIDNN/sitemap-generator.git
   </code>
 </pre>
 
